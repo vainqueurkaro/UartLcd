@@ -1,0 +1,19 @@
+{
+  "name": "UartLcd",
+  "version": "1.0.0",
+  "description": "A simple library to control 20x4 UART Serial LCDs via SoftwareSerial.",
+  "keywords": "display, lcd, uart, serial, 20x4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/UartLcd.git"
+  },
+  "authors": [
+    {
+      "name": "Your Name",
+      "email": "your@email.com",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}

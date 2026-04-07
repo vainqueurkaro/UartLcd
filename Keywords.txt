@@ -1,0 +1,5 @@
+UartLcd	KEYWORD1
+begin	KEYWORD2
+clear	KEYWORD2
+setCursor	KEYWORD2
+print	KEYWORD2
